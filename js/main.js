@@ -3,6 +3,6 @@ $( document ).ready(function() {
     paragraphs.css({
         'background-color': 'orange',
         'color': 'white',
-		'font-size': '1.75em'
+		'font-size': '1.25em'
     });
 });
